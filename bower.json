@@ -11,7 +11,7 @@
     "owlcarousel"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/gpmd/owl-carousel",
+  "homepage": "https://github.com/gpmd/owl-carousel-legacy",
   "ignore": [
     "**/.*",
     "node_modules",
