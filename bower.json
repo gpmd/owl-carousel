@@ -1,0 +1,22 @@
+{
+  "name": "owl-carousel",
+  "authors": [
+    "Matt Bailey <matt@gpmd.co.uk>"
+  ],
+  "description": "Legacy version of Owl Carousel (v1.3.2)",
+  "main": "",
+  "keywords": [
+    "owl",
+    "carousel",
+    "owlcarousel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gpmd/owl-carousel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
